@@ -40,6 +40,7 @@
             <div class="content">
                 <div class="title">Laravel 5 dziala</div>
                 <p>Cofniety commit</p>
+                <p>Commit 2 na masterze</p>
             </div>
         </div>
     </body>
