@@ -38,7 +38,9 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 dziala</div>
+                <div class="title">Laravel 5 dziala
+                <p>Branch Master - 1 commit</p>
+              </div>
             </div>
         </div>
     </body>
